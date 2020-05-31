@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Task Scheduler</string>
+    <string name="task_input">Start Typing</string>
+</resources>
